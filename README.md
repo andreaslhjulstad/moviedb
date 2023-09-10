@@ -2,10 +2,6 @@
 
 # Moviedb-prosjektet
 
-**Innholdsfortegnelse:**
-
-[[_TOC_]]
-
 ## Oppbygning
 
 - Prosjektet er bygget med Maven, og bruker JavaFX for å vise et grensesnitt.

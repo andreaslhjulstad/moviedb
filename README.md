@@ -80,3 +80,12 @@ som kan installeres på maskinen.
 ![Sequence-diagram](PUMLdiagrams/sequence-diagram/sequence-diagram.png)
 
 ![Class-diagram](PUMLdiagrams/class-diagram/class-diagram.png)
+
+## Skjermbilder
+
+![Skjermbilde 2023-09-24 123434](https://github.com/andreaslhjulstad/moviedb/assets/124878761/d985486b-d49e-415c-b268-2bcccfa531b9)
+
+![Skjermbilde 2023-09-24 123515](https://github.com/andreaslhjulstad/moviedb/assets/124878761/866b9177-eaa0-4e77-a74d-4e5064c590e2)
+
+![Skjermbilde 2023-09-24 122949](https://github.com/andreaslhjulstad/moviedb/assets/124878761/dca57f10-a750-4690-a181-534243c94a2a)
+
